@@ -21,11 +21,6 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 
-### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 移動方式:共軸雙旋翼
-2. 供電方式:電池＋自動充電
-3. 聯網方式: WiFi 或 BLE to中控電腦
 
 **所需相關技術：**
 1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
