@@ -34,6 +34,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vtpHYqWE6b8" title="海賊王1076話完整版：紅發大船團VS基德團！海軍圍剿四皇開啟巨大戰爭！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## 花房照護機器人
