@@ -22,6 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 
 ![](https://github.com/01053026/MCU-project/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_20230222_092706.png)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vtpHYqWE6b8" title="海賊王1076話完整版：紅發大船團VS基德團！海軍圍剿四皇開啟巨大戰爭！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **所相關技術：**
 1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
 2. 溫濕度感測 & 氣體偵測: HTU21D + MQ2 + MQ7 + MQ135
