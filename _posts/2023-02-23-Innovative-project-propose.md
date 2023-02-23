@@ -22,7 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 
 
-**所需相關技術：**
+**所相關技術：**
 1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
 2. 溫濕度感測 & 氣體偵測: HTU21D + MQ2 + MQ7 + MQ135
 3. 紅外線遙控: IR-LED 
