@@ -36,6 +36,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
+![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
 ![](https://raw.githubusercontent.com/rkuo2000/MCU-course/main/images/FutureHome_flying_robot.png)
 
 
