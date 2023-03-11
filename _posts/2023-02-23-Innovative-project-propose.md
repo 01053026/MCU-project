@@ -65,7 +65,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 計算機視覺技術：洗衣籃需要搭載計算機視覺技術，能夠自動分類和識別不同種類、不同清潔程度的衣物。
 4. 網路技術：洗衣籃需要搭載網路技術，能夠與家居網絡連接，實現遠程控制和智能化管理等功能。
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_keeper.png?raw=true)
+![](https://github.com/01053026/MCU-project/blob/main/images/20230311%20201037.png?raw=true)
 
 ---
 ## 料理機器人
