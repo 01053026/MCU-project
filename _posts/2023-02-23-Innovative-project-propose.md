@@ -10,7 +10,7 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ## Homework Report Format
-**Contents:**<br>
+**Contents:**
 * **應用與功能說明**
   - Specify the future home application, and Describe the key features
   - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
