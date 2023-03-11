@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 
-##Homework Report Format
+### Homework Report Format
 **Contents:**
 * **應用與功能說明**
    Specify the future home application, and Describe the key features
