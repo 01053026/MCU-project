@@ -63,8 +63,7 @@ This homework is to propose an innovative project and describe the key features,
 1. 感測技術：洗衣籃需要搭載溫度、濕度、壓力等感測器，能夠準確檢測衣物的數量、種類及清潔程度。
 2. 圖像識別技術：洗衣籃需要搭載圖像識別技術，能夠自動識別衣物種類和清潔程度。
 3. 計算機視覺技術：洗衣籃需要搭載計算機視覺技術，能夠自動分類和識別不同種類、不同清潔程度的衣物。
-4. 控制技術：洗衣籃需要搭載適當的控制技術，以實現自動分類、自動提醒和安全性保護等功能。
-5. 網路技術：洗衣籃需要搭載網路技術，能夠與家居網絡連接，實現遠程控制和智能化管理等功能。
+4. 網路技術：洗衣籃需要搭載網路技術，能夠與家居網絡連接，實現遠程控制和智能化管理等功能。
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_keeper.png?raw=true)
 
