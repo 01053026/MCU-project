@@ -44,28 +44,27 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ---
-## 花房照護機器人
+## 智能洗衣籃
 ### 應用功能說明
-1. 查看各植物生長情形
-2. 溫濕度感測+二氧化碳感測+照度感測
-3. 噴霧器施肥+澆水
-4. 遙控照明裝置
-5. 雷射殺蟲
+
+1.自動識別衣物種類並進行智能分類
+2.藍牙連接手機App，可通過手機進行遠程操控和監控
+3.內置智能洗滌程序，可根據不同衣物種類自動選擇最佳洗滌方案
+4.內置除菌程序，能夠有效去除細菌和病毒
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 移動方式:共軸雙旋翼
-2. 供電方式:電池＋自動充電
-3. 聯網方式: WiFi
+1.智能感測：洗衣籃需具備智能感測技術，能夠自動檢測衣物數量、種類及清潔程度，以便選擇最佳洗衣程序。
+2.智能分類：洗衣籃需能自動將不同種類、不同清潔程度的衣物進行分類，方便後續的清洗和烘乾。
+3.智能提醒：洗衣籃需能自動識別衣物種類和清潔程度，提供智能提醒，如適當的洗衣程序、清洗時間等，以提高清洗效果和延長衣物壽命。
+4.安全性：洗衣籃需具備安全性保護功能，如防水、防漏電等，以保護使用者和家庭安全。
 
 **所需相關技術：**
-1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
-2. 溫濕度感測 & 空氣品質感測: HTU21D + MQ135
-3. 紅外線遙控: IR-LED 
-4. 影像辨識: Jetson Nano + IMX219(攝影頭)
-5. 服務器: SmartPhone + Cloud database
-   - 任務規劃與控制: Mission Planner with Floorplan
-
+感測技術：洗衣籃需要搭載溫度、濕度、壓力等感測器，能夠準確檢測衣物的數量、種類及清潔程度。
+圖像識別技術：洗衣籃需要搭載圖像識別技術，能夠自動識別衣物種類和清潔程度。
+計算機視覺技術：洗衣籃需要搭載計算機視覺技術，能夠自動分類和識別不同種類、不同清潔程度的衣物。
+控制技術：洗衣籃需要搭載適當的控制技術，以實現自動分類、自動提醒和安全性保護等功能。
+網路技術：洗衣籃需要搭載網路技術，能夠與家居網絡連接，實現遠程控制和智能化管理等功能。
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_keeper.png?raw=true)
 
@@ -107,11 +106,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 照度感測: ADC界面讀取光敏電阻(GL5516)
-2. 睡眠品質監測：藍牙穿戴式手環(ESP32+MPU6050), 運用三軸加速器偵測睡眠動態
-3. 手勢偵測：MPU6050感測手勢動作之三軸加速器數值, 利用TinyML進行AI手勢辨識
-4. 網路電台播放：ESP32 Internet Radio player
-5. 智慧燈泡連接：AWS Alexa介接, 或藍牙命令操控燈光
+
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_morning_alarm_system.png?raw=true)
