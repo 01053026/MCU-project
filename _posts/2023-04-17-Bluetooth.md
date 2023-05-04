@@ -35,7 +35,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://github.com/01053026/MCU-project/blob/main/images/robot.png?raw=true)
 
 ### 實作影片
-<iframe width=854 height=480  src="https://youtube.com/shorts/ft-H0kqWI4k?feature=share" title="webui-driving-car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onload="onYouTubeIframeAPIReady()"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gIgXSiBs2TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 This site was last updated {{ site.time | date: "%B %d, %Y" }}.
