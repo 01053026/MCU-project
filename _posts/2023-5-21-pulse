@@ -1,0 +1,17 @@
+---
+layout: post
+title: 脈搏偵測
+author: [黃昱翔]
+category: [Lecture]
+tags: [jekyll, ai]
+
+---
+## 程式執行截圖
+![](https://github.com/sean207cc/MCU-course/blob/fd8de459da456e68d11cd347dacd43ef653d5ca8/images/pulse.png?raw=true)
+
+
+### 實作影片
+<iframe width="320" height="560" src="https://www.youtube.com/embed/aCTJDaVOH-c" title="pulse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+This site was last updated {{ site.time | date: "%B %d, %Y" }}.
