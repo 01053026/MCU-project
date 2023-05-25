@@ -16,6 +16,8 @@ tags: [jekyll, ai]
  
 ## 程式碼
 ### ESP32_Webserver_IoT
+<details>
+<summary>Click to toggle contents of `code`</summary>
 ```
 //
 // ESP32 Webserver to receive data from Webclients
@@ -215,6 +217,7 @@ void loop() {
   server.handleClient();
 }   
 ```
+</details>
 ### ESP32_Webclient_IoT_HTU21DF
 ```
 // Webclient to read HTU21DF and send data to Webserver
