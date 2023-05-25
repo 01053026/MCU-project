@@ -312,7 +312,8 @@ void loop() {
   delay(1*60*1000);
 }
 ```
-
+## 系統方塊圖
+![](https://github.com/01053026/MCU-project/blob/main/images/4.jpg?raw=true)
 
 ## 實作照片
 ![](https://github.com/01053026/MCU-project/blob/main/images/IOT3.jpg?raw=true)
