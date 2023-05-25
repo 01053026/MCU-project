@@ -17,7 +17,8 @@ tags: [jekyll, ai]
 ## 程式碼
 ### ESP32_Webserver_IoT
 <details>
-<summary>Click to toggle contents of `code`</summary>
+<summary>more detail code</summary>
+
 ```
 //
 // ESP32 Webserver to receive data from Webclients
@@ -218,7 +219,12 @@ void loop() {
 }   
 ```
 </details>
+
 ### ESP32_Webclient_IoT_HTU21DF
+
+<details>
+<summary>more detail code</summary>
+
 ```
 // Webclient to read HTU21DF and send data to Webserver
 #include <WiFi.h>
@@ -310,7 +316,9 @@ void loop() {
   delay(1*60*1000);
 }
 ```
-## 實作照片
+</details>
+
+ ## 實作照片
 ![](https://github.com/01053026/MCU-project/blob/main/images/IOT3.jpg?raw=true)
 
 ## 執行結果
