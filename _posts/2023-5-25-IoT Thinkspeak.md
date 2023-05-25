@@ -113,6 +113,10 @@ void loop() {
   delay(1*10*1000);
 }
 ```
+
+### 方塊圖
+![](https://github.com/01053026/MCU-project/blob/main/images/5.jpg?raw=true)
+
 ### 實作照片
 ![](https://github.com/01053026/MCU-project/blob/main/images/65343.jpg?raw=true)
 ![](https://github.com/01053026/MCU-project/blob/main/images/temperature.png?raw=true)
