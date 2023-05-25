@@ -314,7 +314,7 @@ void loop() {
 ```
 
 
- ## 實作照片
+## 實作照片
 ![](https://github.com/01053026/MCU-project/blob/main/images/IOT3.jpg?raw=true)
 
 ## 執行結果
