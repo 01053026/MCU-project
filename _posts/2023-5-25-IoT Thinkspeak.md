@@ -6,6 +6,8 @@ category: [Lecture]
 tags: [jekyll, ai]
 
 ---
+### 方塊圖
+![](https://github.com/01053026/MCU-project/blob/main/images/5.jpg?raw=true)
 ## NodeMCU_thingspeak_DHT11.ino
 ```
 #include <WiFi.h> 
@@ -114,8 +116,7 @@ void loop() {
 }
 ```
 
-### 方塊圖
-![](https://github.com/01053026/MCU-project/blob/main/images/5.jpg?raw=true)
+
 
 ### 實作照片
 ![](https://github.com/01053026/MCU-project/blob/main/images/65343.jpg?raw=true)
